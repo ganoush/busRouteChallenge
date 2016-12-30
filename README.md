@@ -1,5 +1,6 @@
 # busRouteChallenge
 
+Solution for :  https://github.com/goeuro/challenges/tree/master/bus_route_challenge
 
 Environment used for development: Mac, Java 8, Spring, Maven, Junit
 
