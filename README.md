@@ -3,7 +3,7 @@
 
 Environment used for development: Mac, Java 8, Spring, Maven, Junit
 
-The spring boot spawns a tomcat container and the port number is specified in resources/application.properties
+The spring boot spawns a tomcat container. The port number at wich the app is hosted is specified in resources/application.properties
 The request are served through BusRouteController class. 
 
 The Bus route data file location must be passed as a command line argument to start the application.
